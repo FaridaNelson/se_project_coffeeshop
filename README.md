@@ -3,6 +3,10 @@
 This is the second project of the Software Engineering program at TripleTen. It was created using HTML and CSS, based on the design brief.
 Welcome to the **Triple Espresso Coffee Shop** website! This project showcases the design and functionality of a specialty coffee shop located in the **Triple Peaks Library**. The website provides information about the coffee shop, its menu, recipes, and allows users to book tables online.
 
+## Deployment
+
+https://faridanelson.github.io/se_project_coffeeshop/
+
 ## Project features
 
 - Semantic HTML5
